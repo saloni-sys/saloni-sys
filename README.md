@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on problem solving skills .<br>C++: focusing on oop principal and data structures <br>My experience learning c and c++<br>I can write the same code in c and c++
+Currently working on problem solving skills .<br>C++: focusing on oop principal and data structures <br>My experience learning c and c++<br> Fun fact-I can write the same code in c and c++
 
 
 ## 🌐 Socials:
