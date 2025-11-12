@@ -5,9 +5,8 @@ Currently working on problem solving skills .<br>C++: focusing on oop principal 
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </p>
 ## 🌐 Socials:
-<a  href="https://www.instagram.com/in/salon_i695/"><img width="30" 
-                src="https://img.icons8.com/clouds/100/instagram-new--v2.png"></a> |<a href="https://www.linkedin.com/in/saloni-singh-32a725381/"><img width="30"
-                src="https://img.icons8.com/clouds/100/linkedin.png"></a> |
+<br>
+<a  href="https://www.instagram.com/in/salon_i695/"><img width="30" src="https://img.icons8.com/3d-fluency/94/instagram-logo.png" alt="instagram-logo"/></a> |<a href="https://www.linkedin.com/in/saloni-singh-32a725381/"><img width="30"src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/></a> |
 
 
 # 💻 Tech Stack:
