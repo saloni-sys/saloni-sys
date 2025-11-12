@@ -5,9 +5,9 @@ Currently working on problem solving skills .<br>C++: focusing on oop principal 
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </p>
 ## 🌐 Socials:
-[<img src="https://img.icons8.com/ios-filled/50/E4405F/instagram-new.png" width="30"/>](https://instagram.com/Salon_i695)<br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Saloni\ singh) <br>
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:salini1abc@gmail.com)
+<a  href="https://www.instagram.com/in/salon_i695/"><img width="30" 
+                src="https://img.icons8.com/clouds/100/instagram-new--v2.png"></a> |<a href="https://www.linkedin.com/in/saloni-singh-32a725381/"><img width="30"
+                src="https://img.icons8.com/clouds/100/linkedin.png"></a> |
 
 
 # 💻 Tech Stack:
