@@ -1,5 +1,10 @@
 # 💫 About Me:
-Currently working on problem solving skills .<br>C++: focusing on oop principal and data structures <br>My experience learning c and c++<br> Fun fact-I can write the same code in c and c++
+Currently improving my problem-solving skills.
+
+• C++: Focusing on Object-Oriented Programming (OOP) and Data Structures.
+• Learning C and C++ through hands-on projects and practice.
+
+Fun Fact: I can write the same program in both C and C++. 
 
 <p align="right">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
