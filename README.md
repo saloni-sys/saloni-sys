@@ -1,10 +1,30 @@
 # 💫 About Me:
-Currently improving my problem-solving skills.
 
-• C++: Focusing on Object-Oriented Programming (OOP) and Data Structures.
-• Learning C and C++ through hands-on projects and practice.
+👩‍💻 Passionate about programming and continuously improving my problem-solving skills.
 
-Fun Fact: I can write the same program in both C and C++. 
+🌱 Currently exploring:
+
+* 📘 Data Structures & Algorithms
+* ⚙️ Object-Oriented Programming (OOP) in C++
+* 🤖 AI & Machine Learning Projects
+
+🎯 Current Goal:
+
+* Solve DSA problems consistently
+* Build impactful projects
+* Strengthen development and debugging skills
+
+🚀 Recent Project:
+
+* Deep Fake Detection System using FastAPI and Machine Learning.
+
+✨ Fun Fact:
+I can write the same program in both C and C++.
+
+<p align="right">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</p>
+
 
 <p align="right">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
